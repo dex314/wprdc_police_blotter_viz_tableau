@@ -3,7 +3,7 @@ A Tableau visualization based on WPRDC Pittsburgh Police Blotter data sets with 
 Hopefully this is a working notebook where I can find time to make more updates and expand.
 
 The Tableau link:
-https://public.tableau.com/shared/SKJFDDSDJ?:display_count=yes&:origin=viz_share_link
+https://public.tableau.com/profile/bill.s6954#!/vizhome/pgh_police_blotter/Dashboard1
 
 The shared workbook is broken up into three sections:
 - Geographic Map of incidents.
